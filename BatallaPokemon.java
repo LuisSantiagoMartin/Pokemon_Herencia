@@ -21,4 +21,10 @@ public class BatallaPokemon {
 puntosDeVidaObjetivo = danio
                     objetivo.setHP(puntosDeVidaObjetivo);
     System.out.pritnln(atacante.getNombre() + "ataca a" + objetivo.getNombre()+ "con" + ataque + "y causa" + danio + "putos de danio");}
+public static int calcularDanio(String ataque) {
+        
+    
+        return 1;
+    }
+}
 }
